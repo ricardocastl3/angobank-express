@@ -1,0 +1,6 @@
+E:\NASCIDO DE NOVO\PROGRAMATION\DESKTOP\C#\SCHOOLPRO\AngoBank\AngoBank\bin\Debug\AngoBank.exe.config
+E:\NASCIDO DE NOVO\PROGRAMATION\DESKTOP\C#\SCHOOLPRO\AngoBank\AngoBank\bin\Debug\AngoBank.exe
+E:\NASCIDO DE NOVO\PROGRAMATION\DESKTOP\C#\SCHOOLPRO\AngoBank\AngoBank\bin\Debug\AngoBank.pdb
+E:\NASCIDO DE NOVO\PROGRAMATION\DESKTOP\C#\SCHOOLPRO\AngoBank\AngoBank\obj\Debug\AngoBank.csprojResolveAssemblyReference.cache
+E:\NASCIDO DE NOVO\PROGRAMATION\DESKTOP\C#\SCHOOLPRO\AngoBank\AngoBank\obj\Debug\AngoBank.exe
+E:\NASCIDO DE NOVO\PROGRAMATION\DESKTOP\C#\SCHOOLPRO\AngoBank\AngoBank\obj\Debug\AngoBank.pdb
